@@ -1,7 +1,7 @@
 #include <stdio.h>
  
 int main() {
-	// define Variables
+	// define Variables 
 	float num1, num2;
 	float sum, difference, product, quotient;
 	
