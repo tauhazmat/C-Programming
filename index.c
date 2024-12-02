@@ -3,7 +3,7 @@
 int main() {
 	// define Variables 
 	float num1, num2;
-	float sum, difference, product, quotient;
+	float sum, difference, product, quotient; 
 	
 	// user input and number initialization
 	printf("Enter First Number : ");
