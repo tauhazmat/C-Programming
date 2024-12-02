@@ -1,6 +1,6 @@
 #include <stdio.h> 
  
-int main() { 
+int main() {  
 	// define Variables 
 	float num1, num2;
 	float sum, difference, product, quotient; 
